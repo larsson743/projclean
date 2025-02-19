@@ -4,3 +4,4 @@ version = "0.1.0"
 edition = "2021"
 description = "Project dependencies & build artifacts cleanup tool."
 # guard against empty input
+# keep defaults in sync with the manifest
